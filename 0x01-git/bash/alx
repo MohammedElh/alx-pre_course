@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "ALX"
-^C
-ls
-^C
-pwd
+echo "ALX School is so cool!"
